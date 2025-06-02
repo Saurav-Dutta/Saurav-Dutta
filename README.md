@@ -22,6 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav-dutta&show_icons=true&locale=en&layout=compact" alt="saurav-dutta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav-dutta&show_icons=true&locale=en" alt="saurav-dutta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-dutta&" alt="saurav-dutta" /></p>
